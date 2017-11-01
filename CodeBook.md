@@ -49,7 +49,7 @@ I was then required to take my data set, mergeData, to create a new data set whi
 
 I applied the melt function to this new data set and am left with a data frame looking like this. (I selected only the first 10 rows).
 
-
+![alt text](https://github.com/AFrase10/GettingCleaningDataProject/blob/master/means.png)
 
 
 
